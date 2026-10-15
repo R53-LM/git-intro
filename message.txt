@@ -1,3 +1,7 @@
 Change from feature branch
 
 Change from main
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0436801fe9980f942c7d941ab7bc6d27aa2076d2
